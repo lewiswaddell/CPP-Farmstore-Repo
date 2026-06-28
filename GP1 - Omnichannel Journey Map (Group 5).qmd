@@ -14,7 +14,32 @@ execute:
   freeze: auto
 ---
 
-# CPP Farmstore - Omnichannel Journey Map
+```{=html}
+<style>
+.title-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+
+.title-logo img {
+  height: 70px;
+}
+
+.title-logo h1,
+.title-logo h2,
+.title-logo p {
+  margin: 0;
+}
+</style>
+```
+
+::: title-logo
+# ![](images/637382017185780333+290935-03.avif)CPP Farmstore - Omnichannel Journey Map
+:::
+
+------------------------------------------------------------------------
 
 ## Target Customer Segment
 
