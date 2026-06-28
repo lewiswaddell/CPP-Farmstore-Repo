@@ -1,7 +1,17 @@
 ---
-title: "GP1 - Omnichannel Journey Map (Group 5)"
-format: html
+title: "GP1: Omnichannel Journey Map"
+author: "Group 5 - Leeann Lewis-Waddell, Luis Ahumada, Carmen Jimenez, Spencer Conway, Georgia Monjarrez"
+date: today
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
 editor: visual
+execute: 
+  freeze: auto
 ---
 
 ## Quarto
