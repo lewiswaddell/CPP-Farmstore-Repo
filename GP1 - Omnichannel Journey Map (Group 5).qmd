@@ -20,6 +20,38 @@ execute:
 
 Lorem ipsum
 
+## Journey Stages
+
+Lorem ipsum
+
+## Customer Actions
+
+Lorem ipsum
+
+## Customer Thoughts or Needs
+
+Lorem ipsum
+
+## Customer Touchpoints
+
+Lorem ipsum
+
+## Customer Painpoints
+
+Lorem ipsum
+
+## Omnichannel Opportunities
+
+Lorem ipsum
+
+## Strategic Implications for the Rest of the Project
+
+Lorem ipsum
+
+## Appendix
+
+Lorem ipsum
+
 ## Running Code
 
 When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
