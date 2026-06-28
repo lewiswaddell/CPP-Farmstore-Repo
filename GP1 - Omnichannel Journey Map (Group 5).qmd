@@ -48,7 +48,7 @@ Lorem ipsum
 ## Journey Stages
 
 ::: {.customer .journey .map}
-![](images/CPP Farmstore - Customer Journey Map.png){fig-align="center"}
+![](images/CPP Farmstore - Customer Journey Map-01.png){fig-align="center"}
 :::
 
 ## Customer Actions
