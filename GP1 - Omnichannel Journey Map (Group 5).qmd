@@ -1,7 +1,7 @@
 ---
 title: "GP1: Omnichannel Journey Map"
 author: "Group 5 - Leeann Lewis-Waddell, Luis Ahumada, Carmen Jimenez, Spencer Conway, Georgia Monjarrez"
-date: today
+date: "June 28, 2026"
 format: 
   html: 
     toc: true
