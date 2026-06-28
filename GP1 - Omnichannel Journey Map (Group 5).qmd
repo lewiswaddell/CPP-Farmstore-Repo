@@ -14,9 +14,11 @@ execute:
   freeze: auto
 ---
 
-## Quarto
+# CPP Farmstore - Omnichannel Journey Map
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+## Target Customer Segment
+
+Lorem ipsum
 
 ## Running Code
 
