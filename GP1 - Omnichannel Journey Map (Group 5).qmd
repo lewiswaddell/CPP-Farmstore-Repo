@@ -14,7 +14,32 @@ execute:
   freeze: auto
 ---
 
-# CPP Farmstore - Omnichannel Journey Map
+```{=html}
+<style>
+.title-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+
+.title-logo img {
+  height: 70px;
+}
+
+.title-logo h1,
+.title-logo h2,
+.title-logo p {
+  margin: 0;
+}
+</style>
+```
+
+::: title-logo
+# ![](images/637382017185780333+290935-03.avif)CPP Farmstore - Omnichannel Journey Map
+:::
+
+------------------------------------------------------------------------
 
 ## Target Customer Segment
 
@@ -22,7 +47,9 @@ Lorem ipsum
 
 ## Journey Stages
 
-Lorem ipsum
+::: {.customer .journey .map}
+![](images/CPP Farmstore - Customer Journey Map-01.png){fig-align="center"}
+:::
 
 ## Customer Actions
 
@@ -73,20 +100,3 @@ Lorem ipsum
 ## Appendix
 
 Lorem ipsum
-
-## Running Code
-
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
-```
-
-You can add options to executable code like this
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
