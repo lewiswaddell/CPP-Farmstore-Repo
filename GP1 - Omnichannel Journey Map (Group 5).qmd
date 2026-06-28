@@ -28,9 +28,31 @@ Lorem ipsum
 
 Lorem ipsum
 
-## Customer Thoughts or Needs
+## Customer Goals
 
-Lorem ipsum
+Customers interact with the CPP Farm Store for different reasons. Some of the reason being dependent on where they are in their customer journey. For example, customers might be discovering the store for the first time, while others may already know about the store and are trying to make a purchase, order a gift basket, or are returning customers because they know that the store provides seasonal products. Understanding these goals helps identify what information and support customers need across digital and physical touchpoints.
+
+Some of the main customer goals include the following:
+
+- Purchase gift baskets at the CPP Farm Store
+
+- Find campus grown products
+
+- Buy fresh local produce f
+
+- Learn store information such as store hours, location, and whether it is open to the public or just CPP students and Faculty
+
+- Check product availability before visiting the store
+
+- Order online, by phone, or ahead of time and instore pickup
+
+- Find promotions, featured products, and event updates through social media, email, or the Farm Store website
+
+- Get help from employees when shopping or placing an order
+
+- Stay connected after purchase through loyalty updates, social media, or mailing lists
+
+  These goals show that customers are not only trying to buy products, but they are also trying to feel informed, confident, and connected when interacting with the CPP Farm Store. The farm store can provide a positive omnichannel experience to its customers by making key information easier to find, connecting online and in store communication, and giving customers a reason to return.
 
 ## Customer Touchpoints
 
