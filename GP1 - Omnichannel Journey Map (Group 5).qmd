@@ -162,6 +162,12 @@ Finally, the project dashboard should track important performance metrics such a
 
 ## Appendix
 
+<<<<<<< HEAD
 -   [Group 5 GP1 GitHub Page](https://lewiswaddell.github.io/CPP-Farmstore-Repo/)
 
 -   [Group 5 GitHub Repo](https://github.com/lewiswaddell/CPP-Farmstore-Repo.git)
+=======
+-   GitHub Page
+
+-   GitHub Repo
+>>>>>>> 6f38344a2c61466819c10c6a4abf7956eb1ac231
