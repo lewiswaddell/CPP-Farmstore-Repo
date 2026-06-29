@@ -22,7 +22,9 @@ execute:
 
 ## Target Customer Segment
 
-Lorem ipsum
+The primary target customer segment for the CPP Farm Store is **CPP students**. As the largest population on campus, students represent an important customer group because they frequently visit campus and are looking for convenient, affordable, and high-quality products. Many students are interested in fresh produce, campus-grown products, specialty foods, gift baskets, and seasonal items but may not always be aware of what the Farm Store offers.
+
+These customers value convenience, clear product information, and a seamless shopping experience across both online and in-store channels. They often use digital platforms such as Google Search, social media, and the Farm Store website to learn about products, store hours, and promotions before deciding to visit. Creating a connected omnichannel experience can help increase awareness, improve customer satisfaction, and encourage repeat visits and long-term loyalty.
 
 ## Journey Stages
 
@@ -32,7 +34,34 @@ Lorem ipsum
 
 ## Customer Actions
 
-Lorem ipsum
+Throughout the customer journey, CPP students interact with the Farm Store in different ways depending on their stage in the buying process.
+
+**Awareness**
+
+Customers first become aware of the CPP Farm Store by hearing about it through friends, campus events, or simply noticing it while on campus. At this stage, they become curious and decide whether they want to learn more.
+
+**Consideration**
+
+Once interested, customers evaluate whether the Farm Store meets their needs. They consider product variety, pricing, store hours, and whether the available products are worth making a trip for.
+
+**Purchase**
+
+Customers visit the store, browse the available products, ask staff questions if needed, select items, and complete their purchase.
+
+**Fulfillment**
+
+After purchasing, customers receive their products, confirm that everything is correct, and either use the items themselves or prepare them as gifts.
+
+**Post-Purchase**
+
+Customers consume or enjoy their purchases, reflect on the quality of the products and service, and decide whether the experience met their expectations.
+
+**Loyalty**
+
+Satisfied customers return for seasonal products, special events, or future purchases. They may also recommend the Farm Store to friends, classmates, or family.
+
+|     |
+|-----|
 
 ## Customer Goals
 
