@@ -1,5 +1,9 @@
 ---
-title: "GP1: Omnichannel Journey Map"
+title: |
+  <div style="display:flex; align-items:center; justify-content:center; gap:15px;">
+    <img src="637382017185780333+290935.avif" style="height:70px;">
+    <span>GP1: CPP Farmstore Omnichannel Journey Map</span>
+  </div>
 author: "Group 5 - Leeann Lewis-Waddell, Luis Ahumada, Carmen Jimenez, Spencer Conway, Georgia Monjarrez"
 date: "June 28, 2026"
 format: 
@@ -13,31 +17,6 @@ editor: visual
 execute: 
   freeze: auto
 ---
-
-```{=html}
-<style>
-.title-logo {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 16px;
-}
-
-.title-logo img {
-  height: 70px;
-}
-
-.title-logo h1,
-.title-logo h2,
-.title-logo p {
-  margin: 0;
-}
-</style>
-```
-
-::: title-logo
-# ![](images/637382017185780333+290935-01.avif){.title-logo width="121"}CPP Farmstore - Omnichannel Journey Map
-:::
 
 ------------------------------------------------------------------------
 
