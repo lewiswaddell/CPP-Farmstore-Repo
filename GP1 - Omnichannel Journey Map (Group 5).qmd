@@ -36,7 +36,7 @@ execute:
 ```
 
 ::: title-logo
-# ![](images/637382017185780333+290935-01.avif){.title-logo}CPP Farmstore - Omnichannel Journey Map
+# ![](images/637382017185780333+290935-01.avif){.title-logo width="121"}CPP Farmstore - Omnichannel Journey Map
 :::
 
 ------------------------------------------------------------------------
