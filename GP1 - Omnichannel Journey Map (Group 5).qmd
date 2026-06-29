@@ -119,7 +119,7 @@ Some of these common customer thoughts can be:
 The table below shows the main customer touchpoints across each stage of the CPP Farm Store omnichannel journey.
 
 | Journey Stage | Main Customer Touchpoints |
-|----|----|
+|------------------------------------|------------------------------------|
 | Awareness | Google Search, Google Maps, CPP website, CPP Farm Store website, Instagram/social media, campus signage, word of mouth, campus events, AGRIscapes visibility |
 | Consideration | Farm Store website, online product listings, Instagram posts, Google reviews/photos, store hours page, directions page, gift basket information, nursery page, seasonal product updates |
 | Purchase | Physical Farm Store, online ordering platform, curbside pickup page, gift basket ordering, in-store checkout, Bronco Bucks/meal points, seasonal product displays, promotions |
@@ -132,7 +132,7 @@ The table below shows the main customer touchpoints across each stage of the CPP
 The table below shows the main customer pain points at each stage of the CPP Farm Store omnichannel journey.
 
 | Journey Stage | Customer Pain Points |
-|----|----|
+|------------------------------------|------------------------------------|
 | Awareness | Some CPP students and local shoppers may not know the Farm Store exists or may not understand that it is open to the public. Awareness may depend heavily on word of mouth, campus traffic, or people already searching for the Farm Store directly. |
 | Consideration | Customers may have trouble quickly seeing what products are currently available because produce and specialty items change seasonally. Product information may also be spread across the website, social media, online ordering platform, and nursery pages instead of being presented in one connected place. |
 | Purchase | The purchase path may feel unclear if customers are not sure what can be bought online, what is only available in store, and whether curbside pickup is available for specific products. Promotions, seasonal bundles, and gift options may not always be connected across the website, social media, and in-store displays. |
