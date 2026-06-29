@@ -145,11 +145,23 @@ The table below shows the main customer pain points at each stage of the CPP Far
 
 ## Omnichannel Opportunities
 
-Lorem ipsum
+The customer journey highlights several opportunities for the CPP Farm Store to create a more connected experience across both its digital and physical channels. Many of the customer pain points can be reduced by making information easier to find and ensuring that customers receive a consistent experience from the moment they discover the store until after they make a purchase.
+
+One opportunity is to improve awareness by increasing the Farm Store's visibility through Google Search, Google Maps, the CPP website, Instagram, and campus signage. This can help more students and community members learn that the store is open to the public and what products it offers.
+
+Another opportunity is to provide clearer and more up-to-date product information online. Since many products are seasonal, keeping the website and social media updated with current availability, photos, and featured products can help customers make informed decisions before visiting the store.
+
+The purchase and pickup experience can also be improved by providing clearer ordering instructions, pricing, pickup information, and confirmation messages. Finally, using email, social media, and seasonal promotions after a purchase can help keep customers engaged, encourage repeat visits, and build stronger customer loyalty over time.
 
 ## Strategic Implications for the Rest of the Project
 
-Lorem ipsum
+The customer journey map provides a foundation for the remaining phases of the CPP Farm Store project. The opportunities identified throughout the journey should guide the design of the Shopify store, retail media strategy, marketing campaigns, creative assets, and performance dashboard. Each part of the project should work together to create a more connected experience for customers across both digital and physical channels.
+
+The Shopify prototype should focus on making it easier for customers to browse products, check seasonal availability, and understand ordering and pickup options before visiting the store. Clear product descriptions, photos, pricing, and pickup information can help reduce confusion during the purchase process and create a smoother shopping experience.
+
+The retail media strategy and campaign plan should increase awareness of the Farm Store by promoting seasonal products, gift baskets, and special events through search engines, social media, and email. Using consistent messaging across these channels can help attract new customers while also encouraging existing customers to return throughout the year.
+
+Finally, the project dashboard should track important performance metrics such as website traffic, online orders, email sign-ups, social media engagement, and repeat purchases. Monitoring these metrics will help evaluate whether the omnichannel strategy is improving customer engagement and creating a more connected shopping experience over time.
 
 ## Appendix
 
