@@ -81,7 +81,7 @@ Some of the main customer goals include the following:
 
   These goals show that customers are not only trying to buy products, but they are also trying to feel informed, confident, and connected when interacting with the CPP Farm Store. The farm store can provide a positive omnichannel experience to its customers by making key information easier to find, connecting online and in store communication, and giving customers a reason to return.
 
-## Customer Thoughts 
+## Customer Thoughts
 
 Customer Thoughts represent the questions, concerns, and expectations customers may have as they move through the CPP Farm Store purchase journey. These thoughts help show where customer may feel confident, confused, curious or unsure during their CPP Farm Store experience. It is important to understand these thoughts because they show us what information customers needs before, during, and after visiting the store.
 
@@ -107,7 +107,7 @@ Some of these common customer thoughts can be:
 
 - Why should I come back again?
 
-  These are some thoughtst that show that customers need clear and easy to find information across multiple touchpoints. By answering these questions earlier in the customer journey, the CPP Farm Store can reduce confusion and frustration and instead build customer confidence while also building a smooth ominchannel experience.
+  These are some thoughts that show that customers need clear and easy to find information across multiple touchpoints. By answering these questions earlier in the customer journey, the CPP Farm Store can reduce confusion and frustration and instead build customer confidence while also building a smooth ominchannel experience.
 
 ## Customer Touchpoints
 
