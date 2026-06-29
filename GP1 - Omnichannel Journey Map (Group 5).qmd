@@ -22,7 +22,9 @@ execute:
 
 ## Target Customer Segment
 
-Lorem ipsum
+The primary target customer segment for the CPP Farm Store is **CPP students**. As the largest population on campus, students represent an important customer group because they frequently visit campus and are looking for convenient, affordable, and high-quality products. Many students are interested in fresh produce, campus-grown products, specialty foods, gift baskets, and seasonal items but may not always be aware of what the Farm Store offers.
+
+These customers value convenience, clear product information, and a seamless shopping experience across both online and in-store channels. They often use digital platforms such as Google Search, social media, and the Farm Store website to learn about products, store hours, and promotions before deciding to visit. Creating a connected omnichannel experience can help increase awareness, improve customer satisfaction, and encourage repeat visits and long-term loyalty.
 
 ## Journey Stages
 
@@ -32,7 +34,34 @@ Lorem ipsum
 
 ## Customer Actions
 
-Lorem ipsum
+Throughout the customer journey, CPP students interact with the Farm Store in different ways depending on their stage in the buying process.
+
+**Awareness**
+
+Customers first become aware of the CPP Farm Store by hearing about it through friends, campus events, or simply noticing it while on campus. At this stage, they become curious and decide whether they want to learn more.
+
+**Consideration**
+
+Once interested, customers evaluate whether the Farm Store meets their needs. They consider product variety, pricing, store hours, and whether the available products are worth making a trip for.
+
+**Purchase**
+
+Customers visit the store, browse the available products, ask staff questions if needed, select items, and complete their purchase.
+
+**Fulfillment**
+
+After purchasing, customers receive their products, confirm that everything is correct, and either use the items themselves or prepare them as gifts.
+
+**Post-Purchase**
+
+Customers consume or enjoy their purchases, reflect on the quality of the products and service, and decide whether the experience met their expectations.
+
+**Loyalty**
+
+Satisfied customers return for seasonal products, special events, or future purchases. They may also recommend the Farm Store to friends, classmates, or family.
+
+|     |
+|-----|
 
 ## Customer Goals
 
@@ -59,6 +88,34 @@ Some of the main customer goals include the following:
 -   Stay connected after purchase through loyalty updates, social media, or mailing lists
 
     These goals show that customers are not only trying to buy products, but they are also trying to feel informed, confident, and connected when interacting with the CPP Farm Store. The farm store can provide a positive omnichannel experience to its customers by making key information easier to find, connecting online and in store communication, and giving customers a reason to return.
+
+## Customer Thoughts
+
+Customer Thoughts represent the questions, concerns, and expectations customers may have as they move through the CPP Farm Store purchase journey. These thoughts help show where customer may feel confident, confused, curious or unsure during their CPP Farm Store experience. It is important to understand these thoughts because they show us what information customers needs before, during, and after visiting the store.
+
+Some of these common customer thoughts can be:
+
+- What is the CPP Farm Store?
+
+- Is the store open to the public or only CPP students and faculty?
+
+- What are store hours and is it open year round?
+
+- Where is the store located and is parking free?
+
+- What are the products that they grow or made at CPP?
+
+- What are the gift baskets and what is included in them?
+
+- Can I place an online order or by phone?
+
+- Who can I ask for help if I have questions?
+
+- What are the seasonal products or promotions going on right now?
+
+- Why should I come back again?
+
+  These are some thoughts that show that customers need clear and easy to find information across multiple touchpoints. By answering these questions earlier in the customer journey, the CPP Farm Store can reduce confusion and frustration and instead build customer confidence while also building a smooth ominchannel experience.
 
 ## Customer Touchpoints
 
@@ -88,11 +145,23 @@ The table below shows the main customer pain points at each stage of the CPP Far
 
 ## Omnichannel Opportunities
 
-Lorem ipsum
+The customer journey highlights several opportunities for the CPP Farm Store to create a more connected experience across both its digital and physical channels. Many of the customer pain points can be reduced by making information easier to find and ensuring that customers receive a consistent experience from the moment they discover the store until after they make a purchase.
+
+One opportunity is to improve awareness by increasing the Farm Store's visibility through Google Search, Google Maps, the CPP website, Instagram, and campus signage. This can help more students and community members learn that the store is open to the public and what products it offers.
+
+Another opportunity is to provide clearer and more up-to-date product information online. Since many products are seasonal, keeping the website and social media updated with current availability, photos, and featured products can help customers make informed decisions before visiting the store.
+
+The purchase and pickup experience can also be improved by providing clearer ordering instructions, pricing, pickup information, and confirmation messages. Finally, using email, social media, and seasonal promotions after a purchase can help keep customers engaged, encourage repeat visits, and build stronger customer loyalty over time.
 
 ## Strategic Implications for the Rest of the Project
 
-Lorem ipsum
+The customer journey map provides a foundation for the remaining phases of the CPP Farm Store project. The opportunities identified throughout the journey should guide the design of the Shopify store, retail media strategy, marketing campaigns, creative assets, and performance dashboard. Each part of the project should work together to create a more connected experience for customers across both digital and physical channels.
+
+The Shopify prototype should focus on making it easier for customers to browse products, check seasonal availability, and understand ordering and pickup options before visiting the store. Clear product descriptions, photos, pricing, and pickup information can help reduce confusion during the purchase process and create a smoother shopping experience.
+
+The retail media strategy and campaign plan should increase awareness of the Farm Store by promoting seasonal products, gift baskets, and special events through search engines, social media, and email. Using consistent messaging across these channels can help attract new customers while also encouraging existing customers to return throughout the year.
+
+Finally, the project dashboard should track important performance metrics such as website traffic, online orders, email sign-ups, social media engagement, and repeat purchases. Monitoring these metrics will help evaluate whether the omnichannel strategy is improving customer engagement and creating a more connected shopping experience over time.
 
 ## Appendix
 
