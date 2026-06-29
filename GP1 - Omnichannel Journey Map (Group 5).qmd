@@ -60,9 +60,6 @@ Customers consume or enjoy their purchases, reflect on the quality of the produc
 
 Satisfied customers return for seasonal products, special events, or future purchases. They may also recommend the Farm Store to friends, classmates, or family.
 
-|     |
-|-----|
-
 ## Customer Goals
 
 Customers interact with the CPP Farm Store for different reasons. Some of the reason being dependent on where they are in their customer journey. For example, customers might be discovering the store for the first time, while others may already know about the store and are trying to make a purchase, order a gift basket, or are returning customers because they know that the store provides seasonal products. Understanding these goals helps identify what information and support customers need across digital and physical touchpoints.
@@ -95,34 +92,34 @@ Customer Thoughts represent the questions, concerns, and expectations customers 
 
 Some of these common customer thoughts can be:
 
-- What is the CPP Farm Store?
+-   What is the CPP Farm Store?
 
-- Is the store open to the public or only CPP students and faculty?
+-   Is the store open to the public or only CPP students and faculty?
 
-- What are store hours and is it open year round?
+-   What are store hours and is it open year round?
 
-- Where is the store located and is parking free?
+-   Where is the store located and is parking free?
 
-- What are the products that they grow or made at CPP?
+-   What are the products that they grow or made at CPP?
 
-- What are the gift baskets and what is included in them?
+-   What are the gift baskets and what is included in them?
 
-- Can I place an online order or by phone?
+-   Can I place an online order or by phone?
 
-- Who can I ask for help if I have questions?
+-   Who can I ask for help if I have questions?
 
-- What are the seasonal products or promotions going on right now?
+-   What are the seasonal products or promotions going on right now?
 
-- Why should I come back again?
+-   Why should I come back again?
 
-  These are some thoughts that show that customers need clear and easy to find information across multiple touchpoints. By answering these questions earlier in the customer journey, the CPP Farm Store can reduce confusion and frustration and instead build customer confidence while also building a smooth ominchannel experience.
+    These are some thoughts that show that customers need clear and easy to find information across multiple touchpoints. By answering these questions earlier in the customer journey, the CPP Farm Store can reduce confusion and frustration and instead build customer confidence while also building a smooth ominchannel experience.
 
 ## Customer Touchpoints
 
 The table below shows the main customer touchpoints across each stage of the CPP Farm Store omnichannel journey.
 
 | Journey Stage | Main Customer Touchpoints |
-|----|----|
+|------------------------------------|------------------------------------|
 | Awareness | Google Search, Google Maps, CPP website, CPP Farm Store website, Instagram/social media, campus signage, word of mouth, campus events, AGRIscapes visibility |
 | Consideration | Farm Store website, online product listings, Instagram posts, Google reviews/photos, store hours page, directions page, gift basket information, nursery page, seasonal product updates |
 | Purchase | Physical Farm Store, online ordering platform, curbside pickup page, gift basket ordering, in-store checkout, Bronco Bucks/meal points, seasonal product displays, promotions |
@@ -135,7 +132,7 @@ The table below shows the main customer touchpoints across each stage of the CPP
 The table below shows the main customer pain points at each stage of the CPP Farm Store omnichannel journey.
 
 | Journey Stage | Customer Pain Points |
-|----|----|
+|------------------------------------|------------------------------------|
 | Awareness | Some CPP students and local shoppers may not know the Farm Store exists or may not understand that it is open to the public. Awareness may depend heavily on word of mouth, campus traffic, or people already searching for the Farm Store directly. |
 | Consideration | Customers may have trouble quickly seeing what products are currently available because produce and specialty items change seasonally. Product information may also be spread across the website, social media, online ordering platform, and nursery pages instead of being presented in one connected place. |
 | Purchase | The purchase path may feel unclear if customers are not sure what can be bought online, what is only available in store, and whether curbside pickup is available for specific products. Promotions, seasonal bundles, and gift options may not always be connected across the website, social media, and in-store displays. |
@@ -165,4 +162,6 @@ Finally, the project dashboard should track important performance metrics such a
 
 ## Appendix
 
-Lorem ipsum
+-   [Group 5 GP1 GitHub Page](https://lewiswaddell.github.io/CPP-Farmstore-Repo/)
+
+-   [Group 5 GitHub Repo](https://github.com/lewiswaddell/CPP-Farmstore-Repo.git)
